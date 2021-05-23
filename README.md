@@ -1,8 +1,10 @@
 ![Header](bam_header.png "Header")
 
-### Hello, my name is Barbara Marques and I am a data scientist in Cibolo, Texas (just outside San Antonio). 
 
-📫 barbara.ann.marques@gmail.com
+#### Hello, my name is Barbara Marques and I am a data scientist in Cibolo, Texas (just outside San Antonio).
+
+
+📫 barbara.ann.marques@gmail.com   
 
 ### **&#x1f527;** **TOOLS & TECHNOLOGIES**:
 ![](https://img.shields.io/badge/-PYTHON-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
