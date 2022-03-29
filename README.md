@@ -1,4 +1,4 @@
-![Header](bam_header.png "Header")
+![Header](Barb Marques(2).png "Header")
 
 
 #### Hello, my name is Barbara Marques and I am a data scientist in Cibolo, Texas (just outside San Antonio).
