@@ -1,7 +1,7 @@
 ![Header](bam_header.png "Header")
 
 
-### Hello, my name is Barbara Marques. I am a data engineer with a passion for data visualization and storytelling. I live and work in Cibolo, Texas (just outside San Antonio).
+### Hello, my name is Barbara Marques. I am a data engineer with a passion for data analytics, data visualization and storytelling. I live and work in Cibolo, Texas (just outside San Antonio).
 
 
 📫 barbara.ann.marques@gmail.com   
